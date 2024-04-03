@@ -1,4 +1,4 @@
-public class CopyArray {    
+public class project {    
     public static void main(String[] args) {        
              //Initialize array     
         int [] arr1 = new int [] {1, 2, 3, 4, 5};     
